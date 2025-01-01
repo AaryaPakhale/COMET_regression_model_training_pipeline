@@ -28,9 +28,9 @@ To run the notebook on Google Colab:
 
 ## References
 
-- COMET: A Neural Framework for MT Evaluation :contentReference[oaicite:1]{index=1}
+- [COMET: A Neural Framework for MT Evaluation](https://arxiv.org/abs/2009.09025)
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/AaryaPakhale/COMET_pipeline/blob/main/LICENSE) file for details.
 
