@@ -1,6 +1,6 @@
 # COMET Regression Model Training Pipeline
 
-This repository contains a Jupyter Notebook that demonstrates how to train a COMET regression model from scratch using Google Colab. COMET (Crosslingual Optimized Metric for Evaluation of Translation) is a neural framework designed for evaluating machine translation quality by leveraging multilingual pre-trained language models. :contentReference[oaicite:0]{index=0}
+This repository contains a Jupyter Notebook that demonstrates how to train a COMET regression model from scratch on Google Colab. COMET (Crosslingual Optimized Metric for Evaluation of Translation) is a neural framework designed for evaluating machine translation quality by leveraging multilingual pre-trained language models. :contentReference[oaicite:0]{index=0}
 
 ## Overview
 
